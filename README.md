@@ -1,12 +1,12 @@
-# CPMGala
+# MJCPM
 
-<h3>CPMGala is a tool made to modify Car Parking Multiplayer accounts with no root or vertual app.</h3>
+<h3>MJCPM is a tool made to modify Car Parking Multiplayer accounts with no root or vertual app.</h3>
 <h4>you just need an Access Key, wich you can get from <a href="https://t.me/MJCHANNEL_BOT</a>">@CPMGalaBot</a> for free with 1K Credits Balance.</h4>
 
 
 #### Tested on:
 
-- IPhone (**ish**).
+- IPhone 
 - Android (**Termux**).
 - Windows
 - Linux
@@ -19,8 +19,8 @@
 - `pkg upgrade -y`
 - `pkg install git`
 - `pkg install python-pip`
-- `git clone https://github.com/CPMGalakz/CPMGala.git`
-- `cd CPMGala`
+- `git clone https://github.com/MJDEVGG.git`
+- `cd mjcpm `
 - `git pull`
 - `python3 -m pip install requests`
 - `pkg i python-numpy`
@@ -29,13 +29,3 @@
 - `pip3 install pystyle`
 - `python main.py`
 
-### IPhone (ISH):
-
-- `apk update`
-- `apk add git`
-- `apk add python3`
-- `apk add py3-pip`
-- `git clone https://github.com/CPMGalakz/CPMGala.git`
-- `cd CPMGala`
-- `pip3 install -r requirements.txt`
-- `python3 main.py`
