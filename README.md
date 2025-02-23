@@ -1,7 +1,7 @@
 # MJCPM
 
 <h3>MJCPM is a tool made to modify Car Parking Multiplayer accounts with no root or vertual app.</h3>
-<h4>you just need an Access Key, wich you can get from <a href="https://t.me/MJCHANNEL_BOT</a>">@CPMGalaBot</a> for free with 1K Credits Balance.</h4>
+<h4>you just need an Access Key, wich you can get from <a href="https://t.me/MJCHANNEL_BOT</a>">@MJCHANNEL_BOT</a> for free with 1K Credits Balance.</h4>
 
 
 #### Tested on:
@@ -19,7 +19,7 @@
 - `pkg upgrade -y`
 - `pkg install git`
 - `pkg install python-pip`
-- `git clone https://github.com/MJDEVGG.git`
+- `git clone https://github.com/MJDEVGG/MJDEVGG.git`
 - `cd mjcpm `
 - `git pull`
 - `python3 -m pip install requests`
